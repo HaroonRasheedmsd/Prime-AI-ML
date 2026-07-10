@@ -1,0 +1,2 @@
+This is first log.
+Program runs successfully.
