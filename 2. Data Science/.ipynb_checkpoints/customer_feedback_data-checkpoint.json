@@ -1,0 +1,7 @@
+[
+    {"name": "Ali", "rating": "5", "age": "25"},
+    {"name": "Sara", "rating": "four", "age": 30},
+    {"name": "Usman", "rating": null, "age": "22"},
+    {"name": "Hira", "rating": 2, "age": "twenty six"},
+    {"name": "Ali", "rating": "5", "age": "25"}
+]

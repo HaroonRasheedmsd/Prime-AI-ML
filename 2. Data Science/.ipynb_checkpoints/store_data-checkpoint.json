@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Ali Khan",
+        "rating": 5,
+        "feedback": "Excellent service and friendly staff.",
+        "age": 25
+    },
+    {
+        "name": "Sara Ahmed",
+        "rating": 4.5,
+        "feedback": "Products are good but expensive.",
+        "age": 30
+    },
+    {
+        "name": "Usman Tariq",
+        "rating": "three",
+        "feedback": "Average experience.",
+        "age": 22
+    },
+    {
+        "name": "Ayesha Noor",
+        "rating": "four",
+        "feedback": "Loved the environment and product variety.",
+        "age": 28
+    },
+    {
+        "name": "Bilal Hassan",
+        "rating": "",
+        "feedback": "Customer service needs improvement.",
+        "age": 35
+    },
+    {
+        "name": "Fatima Malik",
+        "feedback": "Products were fresh and organized.",
+        "age": 27
+    },
+    {
+        "name": "Hamza Shah",
+        "rating": 5.0,
+        "feedback": "Fast checkout process.",
+        "age": "twenty four"
+    },
+    {
+        "name": "Zainab Ali",
+        "rating": null,
+        "feedback": "Store was crowded.",
+        "age": 31
+    },
+    {
+        "name": "Ahmed Raza",
+        "rating": "5",
+        "feedback": "Nice discounts and reasonable prices.",
+        "age": "29"
+    },
+    {
+        "name": "Hira Khan",
+        "rating": 5,
+        "feedback": "Best shopping experience in the area.",
+        "age": 26
+    },
+    {
+        "name": "Ali Khan",
+        "rating": 5,
+        "feedback": "Excellent service and friendly staff.",
+        "age": 25
+    },
+    {
+        "name": "Sara Ahmed",
+        "rating": 4.5,
+        "feedback": "Products are good but expensive.",
+        "age": 30
+    }
+]
