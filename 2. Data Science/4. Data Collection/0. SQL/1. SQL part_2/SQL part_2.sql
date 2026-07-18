@@ -221,6 +221,8 @@ DROP INDEX idx1 ON customer;
 
 -- Draw backs : as Select (read) query can be faster but Update or delete (write) query make slower
 select database();
+
+
 -- Stored procedures: Predefined set of SQL Statements that you can save in the database and 
 -- execute whenever needed
 
